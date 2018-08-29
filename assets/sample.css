@@ -1,0 +1,36 @@
+body {
+    background-color: cadetblue;
+}
+
+.header {
+    height: 30px;
+    background-color: gray;
+    margin-top: -40px;
+    text-align: center;
+    font-size: 20px;
+}
+
+h4{
+    font-size: 40px;
+    text-align: center;
+}
+
+.container {
+    
+    margin-top: 12px;
+    width: 900px;
+    height: 500px;
+    background-color: brown;
+}
+.sideA {
+    width: 400px;
+    height: 500px;
+    float: left;
+}
+
+.sideB {
+    width: 300px;
+    height: 500px;
+    float: right;
+    background-color: goldenrod;
+}
